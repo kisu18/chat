@@ -348,7 +348,7 @@ if (process.env.NODE_ENV === "production") {
  - Open a pull request.
  
   ## Contributors 🤝
-  @MehraDevesh2022 
+  @kisu18
 
  
 > Happy chatting with ChatMind! If you have any questions or need further assistance, feel free to reach out.
